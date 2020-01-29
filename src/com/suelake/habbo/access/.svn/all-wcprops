@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/access
+END
+UserRightContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/access/UserRightContainer.java
+END
+UserRegistrationFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/150/src/com/suelake/habbo/access/UserRegistrationFinder.java
+END
+AccessControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/access/AccessControl.java
+END
+UserRightLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/access/UserRightLoader.java
+END
+UserAccessEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/blunk_src/!svn/ver/150/src/com/suelake/habbo/access/UserAccessEntry.java
+END

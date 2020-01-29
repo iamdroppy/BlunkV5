@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/blunk_src/!svn/ver/184/src/com/suelake/habbo/util
+END
+RandomSentenceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/123/src/com/suelake/habbo/util/RandomSentenceGenerator.java
+END
+ChatCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/blunk_src/!svn/ver/180/src/com/suelake/habbo/util/ChatCommandHandler.java
+END
+FigureUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/util/FigureUtil.java
+END
+RoomDirectoryEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/util/RoomDirectoryEncoding.java
+END
+ChatUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/blunk_src/!svn/ver/184/src/com/suelake/habbo/util/ChatUtility.java
+END
+SecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/util/SecurityUtil.java
+END
+ChatCommandParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/blunk_src/!svn/ver/161/src/com/suelake/habbo/util/ChatCommandParser.java
+END

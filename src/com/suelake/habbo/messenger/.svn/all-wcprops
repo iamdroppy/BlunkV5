@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/blunk_src/!svn/ver/176/src/com/suelake/habbo/messenger
+END
+MessengerBuddyGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/messenger/MessengerBuddyGrabber.java
+END
+MessengerMessageGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/messenger/MessengerMessageGrabber.java
+END
+MessengerBuddyLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/messenger/MessengerBuddyLink.java
+END
+MessengerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/129/src/com/suelake/habbo/messenger/MessengerComponent.java
+END
+MessengerBuddyRequestGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blunk_src/!svn/ver/125/src/com/suelake/habbo/messenger/MessengerBuddyRequestGrabber.java
+END
+MessengerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blunk_src/!svn/ver/168/src/com/suelake/habbo/messenger/MessengerMessage.java
+END
+MessengerBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/messenger/MessengerBuddy.java
+END
+MessengerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/messenger/MessengerService.java
+END

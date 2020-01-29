@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/blunk_src/!svn/ver/180/src/com/suelake/habbo/communication
+END
+SerializableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/SerializableObject.java
+END
+ClientMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/ClientMessage.java
+END
+ClientRequestHandlerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blunk_src/!svn/ver/121/src/com/suelake/habbo/communication/ClientRequestHandlerManager.java
+END
+ClientRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/ClientRequestHandler.java
+END
+CommunicationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/179/src/com/suelake/habbo/communication/CommunicationHandler.java
+END
+ServerMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/ServerMessage.java
+END
+ClientCommands.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/communication/ClientCommands.java
+END
+ClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/communication/ClientManager.java
+END

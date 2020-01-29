@@ -1,0 +1,611 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/blunk_src/!svn/ver/180/src/com/suelake/habbo/communication/requests
+END
+REMOVESTUFF.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/REMOVESTUFF.java
+END
+MESSENGER_MARKREAD.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/MESSENGER_MARKREAD.java
+END
+INTODOOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/INTODOOR.java
+END
+CARRYITEM.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/CARRYITEM.java
+END
+G_STAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/149/src/com/suelake/habbo/communication/requests/G_STAT.java
+END
+SETFLATINFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/136/src/com/suelake/habbo/communication/requests/SETFLATINFO.java
+END
+GETADFORME.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETADFORME.java
+END
+ASSIGNRIGHTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/communication/requests/ASSIGNRIGHTS.java
+END
+PRESENTOPEN.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/communication/requests/PRESENTOPEN.java
+END
+TRADE_OPEN.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/TRADE_OPEN.java
+END
+SEND_USERPASS_TO_EMAIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SEND_USERPASS_TO_EMAIL.java
+END
+REGISTER.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/communication/requests/REGISTER.java
+END
+MOVESTUFF.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/MOVESTUFF.java
+END
+STOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/171/src/com/suelake/habbo/communication/requests/STOP.java
+END
+GETSTRIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETSTRIP.java
+END
+PLACESTUFFFROMSTRIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/PLACESTUFFFROMSTRIP.java
+END
+GETFLATINFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETFLATINFO.java
+END
+GETDOORFLAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETDOORFLAT.java
+END
+CARRYDRINK.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/CARRYDRINK.java
+END
+SBUSYF.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SBUSYF.java
+END
+USEITEM.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/USEITEM.java
+END
+BTCKS.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/BTCKS.java
+END
+FLATPROPERTYBYITEM.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/FLATPROPERTYBYITEM.java
+END
+APPROVENAME.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/APPROVENAME.java
+END
+JUMPPERF.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/JUMPPERF.java
+END
+REMOVEITEM.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/REMOVEITEM.java
+END
+GOVIADOOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GOVIADOOR.java
+END
+DANCE.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/DANCE.java
+END
+MOVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/MOVE.java
+END
+UNIQUEMACHINEID.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/UNIQUEMACHINEID.java
+END
+GETUNITUPDATES.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blunk_src/!svn/ver/130/src/com/suelake/habbo/communication/requests/GETUNITUPDATES.java
+END
+VERSIONCHECK.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/131/src/com/suelake/habbo/communication/requests/VERSIONCHECK.java
+END
+GETUNITUSERS.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETUNITUSERS.java
+END
+GCAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GCAP.java
+END
+GCIX.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GCIX.java
+END
+INFORETRIEVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/INFORETRIEVE.java
+END
+UPDATE.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/communication/requests/UPDATE.java
+END
+PTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/PTM.java
+END
+LOGIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/LOGIN.java
+END
+G_ITEMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/G_ITEMS.java
+END
+KEYENCRYPTED.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/131/src/com/suelake/habbo/communication/requests/KEYENCRYPTED.java
+END
+GETALLUNITS.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETALLUNITS.java
+END
+DELETEFLAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/119/src/com/suelake/habbo/communication/requests/DELETEFLAT.java
+END
+MESSENGERINIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blunk_src/!svn/ver/162/src/com/suelake/habbo/communication/requests/MESSENGERINIT.java
+END
+WHISPER.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blunk_src/!svn/ver/173/src/com/suelake/habbo/communication/requests/WHISPER.java
+END
+SETITEMDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/communication/requests/SETITEMDATA.java
+END
+SIGN.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SIGN.java
+END
+G_IDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/G_IDATA.java
+END
+GPRC.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/communication/requests/GPRC.java
+END
+LOOKTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/LOOKTO.java
+END
+SHOUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/180/src/com/suelake/habbo/communication/requests/SHOUT.java
+END
+MESSENGER_REMOVEBUDDY.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blunk_src/!svn/ver/125/src/com/suelake/habbo/communication/requests/MESSENGER_REMOVEBUDDY.java
+END
+GOAWAY.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GOAWAY.java
+END
+TRYFLAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/TRYFLAT.java
+END
+MESSENGER_ACCEPTBUDDY.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/MESSENGER_ACCEPTBUDDY.java
+END
+MESSENGER_ASSIGNPERSMSG.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/MESSENGER_ASSIGNPERSMSG.java
+END
+SCR_SUBSCRIBE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/communication/requests/SCR_SUBSCRIBE.java
+END
+EMPTY.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/EMPTY.java
+END
+LETUSERIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/LETUSERIN.java
+END
+DEL_FAVORITE_ROOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blunk_src/!svn/ver/121/src/com/suelake/habbo/communication/requests/DEL_FAVORITE_ROOM.java
+END
+KILLUSER.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/157/src/com/suelake/habbo/communication/requests/KILLUSER.java
+END
+GETCREDITS.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GETCREDITS.java
+END
+FINDUSER.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/168/src/com/suelake/habbo/communication/requests/FINDUSER.java
+END
+GETAVAILABLESETS.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/blunk_src/!svn/ver/141/src/com/suelake/habbo/communication/requests/GETAVAILABLESETS.java
+END
+TRADE_ACCEPT.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/TRADE_ACCEPT.java
+END
+MESSENGER_REQUESTBUDDY.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blunk_src/!svn/ver/157/src/com/suelake/habbo/communication/requests/MESSENGER_REQUESTBUDDY.java
+END
+SRCHF.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SRCHF.java
+END
+UPDATEFLAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/136/src/com/suelake/habbo/communication/requests/UPDATEFLAT.java
+END
+THROW_DICE.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/THROW_DICE.java
+END
+SCR_EXTSCR.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/communication/requests/SCR_EXTSCR.java
+END
+PICK_CRYFORHELP.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/PICK_CRYFORHELP.java
+END
+MESSENGER_SENDUPDATE.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blunk_src/!svn/ver/125/src/com/suelake/habbo/communication/requests/MESSENGER_SENDUPDATE.java
+END
+TRADE_CLOSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/TRADE_CLOSE.java
+END
+TRADE_UNACCEPT.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/TRADE_UNACCEPT.java
+END
+SETSTUFFDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/168/src/com/suelake/habbo/communication/requests/SETSTUFFDATA.java
+END
+REMOVERIGHTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/communication/requests/REMOVERIGHTS.java
+END
+GETFVRF.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blunk_src/!svn/ver/121/src/com/suelake/habbo/communication/requests/GETFVRF.java
+END
+TRADE_ADDITEM.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/TRADE_ADDITEM.java
+END
+SCR_GINFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SCR_GINFO.java
+END
+G_USRS.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/G_USRS.java
+END
+QUIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/QUIT.java
+END
+MESSENGER_SENDMSG.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blunk_src/!svn/ver/131/src/com/suelake/habbo/communication/requests/MESSENGER_SENDMSG.java
+END
+G_HMAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/G_HMAP.java
+END
+ADDSTRIPITEM.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blunk_src/!svn/ver/115/src/com/suelake/habbo/communication/requests/ADDSTRIPITEM.java
+END
+SUSERF.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SUSERF.java
+END
+SHOWBADGE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SHOWBADGE.java
+END
+SPLASH_POSITION.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/SPLASH_POSITION.java
+END
+HIDEBADGE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/HIDEBADGE.java
+END
+CRYFORHELP.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/136/src/com/suelake/habbo/communication/requests/CRYFORHELP.java
+END
+ADD_FAVORITE_ROOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blunk_src/!svn/ver/121/src/com/suelake/habbo/communication/requests/ADD_FAVORITE_ROOM.java
+END
+GOTOFLAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/GOTOFLAT.java
+END
+MESSENGER_DECLINEBUDDY.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/MESSENGER_DECLINEBUDDY.java
+END
+DOORGOIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/DOORGOIN.java
+END
+WAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/177/src/com/suelake/habbo/communication/requests/WAVE.java
+END
+CHAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/180/src/com/suelake/habbo/communication/requests/CHAT.java
+END
+DICE_OFF.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/DICE_OFF.java
+END
+CLOSE_UIMAKOPPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/CLOSE_UIMAKOPPI.java
+END
+CREATEFLAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blunk_src/!svn/ver/136/src/com/suelake/habbo/communication/requests/CREATEFLAT.java
+END
+PLACEITEMFROMSTRIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/PLACEITEMFROMSTRIP.java
+END
+G_OBJS.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/G_OBJS.java
+END
+JUMPSTART.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/communication/requests/JUMPSTART.java
+END

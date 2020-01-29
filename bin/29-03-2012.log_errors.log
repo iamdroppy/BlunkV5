@@ -1,0 +1,20 @@
+Error logging started @ 3/29/12 1:08 PM
+
+3/29/12 1:08 PMjava.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at com.blunk.storage.sql.SQLDatabaseConnectionManager.prepare(SQLDatabaseConnectionManager.java:69)
+	at com.blunk.storage.sql.SQLDatabase.prepare(SQLDatabase.java:36)
+	at com.blunk.Environment.initDatabaseImpl(Environment.java:129)
+	at com.blunk.Environment.init(Environment.java:50)
+	at com.suelake.habbo.HabboHotel.main(HabboHotel.java:58)
+
+
+3/29/12 1:08 PM3/29/12 1:08 PM3/29/12 1:08 PM

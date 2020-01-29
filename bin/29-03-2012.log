@@ -1,0 +1,4 @@
+Server logging started @ 3/29/12 1:08 PM
+3/29/12 1:08 PM -- Database implementation name: SQL
+3/29/12 1:08 PM -- Database classname: com.blunk.storage.sql.SQLDatabase
+3/29/12 1:08 PM -- Database RMI url: internal

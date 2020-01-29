@@ -1,0 +1,196 @@
+Server logging started @ 1/4/12 4:33 AM
+1/4/12 4:33 AM -- Database implementation name: SQL
+1/4/12 4:33 AM -- Database classname: com.blunk.storage.sql.SQLDatabase
+1/4/12 4:33 AM -- Database RMI url: internal
+1/4/12 4:33 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 4:33 AM -- SQLDatabaseConnectionManager successfully created a test connection!
+1/4/12 4:33 AM -- SQLDatabaseConnectionManager connection pool cleanup monitor started.
+1/4/12 4:33 AM -- Successfully instantiated and prepared Database implementation SQLDatabase.
+1/4/12 4:33 AM -- Initialized Blunk environment.
+1/4/12 4:33 AM -- Initializing com.suelake.habbo.HabboHotel...
+1/4/12 4:33 AM -- Locating .properties file for Habbo Hotel...
+1/4/12 4:33 AM -- Initialized properties for Habbo Hotel, 55 properties loaded.
+1/4/12 4:33 AM -- Registering DataObject classes...
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.users.User [SQLDataObject com.suelake.habbo.users.sql.SQLUser]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.access.UserAccessEntry [SQLDataObject com.suelake.habbo.access.sql.SQLUserAccessEntry]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.moderation.ModerationBan [SQLDataObject com.suelake.habbo.moderation.sql.SQLModerationBan]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.spaces.Space [SQLDataObject com.suelake.habbo.spaces.sql.SQLSpace]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.messenger.MessengerBuddyLink [SQLDataObject com.suelake.habbo.messenger.sql.SQLMessengerBuddyLink]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.messenger.MessengerMessage [SQLDataObject com.suelake.habbo.messenger.sql.SQLMessengerMessage]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.items.Item [SQLDataObject com.suelake.habbo.items.sql.SQLItem]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.photos.Photo [SQLDataObject com.suelake.habbo.photos.sql.SQLPhoto]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.economy.Company [SQLDataObject com.suelake.habbo.economy.sql.SQLCompany]
+1/4/12 4:33 AM -- Registered DataObject com.suelake.habbo.economy.Stock [SQLDataObject com.suelake.habbo.economy.sql.SQLStock]
+1/4/12 4:33 AM -- Registered 10 DataObject classes.
+1/4/12 4:33 AM -- Registering DataQuery classes...
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.access.UserRightLoader [SQLDataObject com.suelake.habbo.access.sql.SQLUserRightLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.access.UserRegistrationFinder [SQLDataObject com.suelake.habbo.access.sql.SQLUserRegistrationFinder]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.PublicSpaceFinder [SQLDataObject com.suelake.habbo.spaces.sql.SQLPublicSpaceFinder]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.UserFlatFinder [SQLDataObject com.suelake.habbo.spaces.sql.SQLUserFlatFinder]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.FavoriteFlatListHelper [SQLDataObject com.suelake.habbo.spaces.sql.SQLFavoriteFlatListHelper]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.UserFlatControllerHelper [SQLDataObject com.suelake.habbo.spaces.sql.SQLUserFlatControllerHelper]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.SpaceModelLoader [SQLDataObject com.suelake.habbo.spaces.sql.SQLSpaceModelLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.SpaceModelObjectsLoader [SQLDataObject com.suelake.habbo.spaces.sql.SQLSpaceModelObjectsLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.SpaceContentDeleteHelper [SQLDataObject com.suelake.habbo.spaces.sql.SQLSpaceContentDeleteHelper]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.spaces.SpaceBotLoader [SQLDataObject com.suelake.habbo.spaces.sql.SQLSpaceBotLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.messenger.MessengerBuddyGrabber [SQLDataObject com.suelake.habbo.messenger.sql.SQLMessengerBuddyGrabber]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.messenger.MessengerBuddyRequestGrabber [SQLDataObject com.suelake.habbo.messenger.sql.SQLMessengerBuddyRequestGrabber]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.messenger.MessengerMessageGrabber [SQLDataObject com.suelake.habbo.messenger.sql.SQLMessengerMessageGrabber]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.items.ItemDefinitionLoader [SQLDataObject com.suelake.habbo.items.sql.SQLItemDefinitionLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.items.ItemLoader [SQLDataObject com.suelake.habbo.items.sql.SQLItemLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.catalogue.CataloguePageLoader [SQLDataObject com.suelake.habbo.catalogue.sql.SQLCataloguePageLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.catalogue.CatalogueArticleLoader [SQLDataObject com.suelake.habbo.catalogue.sql.SQLCatalogueArticleLoader]
+1/4/12 4:33 AM -- Registered DataQuery com.suelake.habbo.economy.StockFinder [SQLDataObject com.suelake.habbo.economy.sql.SQLStockFinder]
+1/4/12 4:33 AM -- Registered 18 DataQuery classes.
+1/4/12 4:33 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 4:33 AM -- Loading item definitions...
+1/4/12 4:33 AM -- Loaded 967 item definitions.
+1/4/12 4:33 AM -- Loading space models...
+1/4/12 4:33 AM -- Loaded 66 space models.
+1/4/12 4:33 AM -- Initialized Catalogue, 20 pages, 355 articles.
+1/4/12 4:33 AM -- Initialized com.suelake.habbo.HabboHotel.
+1/4/12 4:33 AM -- ClientManager: accepted client #1 from 194.83.71.238 [194.83.71.238]
+1/4/12 4:33 AM -- ClientManager: accepted client #2 from 194.83.71.238 [194.83.71.238]
+1/4/12 4:34 AM -- ClientManager: removed client #2 [reason: disconnected by user]
+1/4/12 4:34 AM -- ClientManager: accepted client #3 from 194.83.71.238 [194.83.71.238]
+1/4/12 4:34 AM -- ClientManager: removed client #3 [reason: disconnected by user]
+1/4/12 4:34 AM -- ClientManager: accepted client #4 from 194.83.71.238 [194.83.71.238]
+1/4/12 4:34 AM -- User #2 [John] logged in from client #4 [194.83.71.238]
+1/4/12 4:34 AM -- SpaceInstanceServer [0] started new instance of space 1
+1/4/12 4:34 AM -- ClientManager: removed client #4 [reason: disconnected by user]
+1/4/12 4:34 AM -- ClientManager: accepted client #5 from 194.83.71.238 [194.83.71.238]
+1/4/12 4:34 AM -- User #2 [John] logged in from client #5 [194.83.71.238]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Dean725]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@George989]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Shane769]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Roberto793]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Angel214]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Derek166]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Darrell796]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Maurice463]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Chris610]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Keith201]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Kevin261]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Dwight624]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Dale415]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Eugene500]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jeremy670]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Craig559]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jason740]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Darren53]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Fernando903]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Erik91]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Marc255]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Bobby651]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Edward384]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Derrick118]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Stephen232]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Alfredo35]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Bill674]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Larry433]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Gregory41]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Sergio64]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Andy365]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Tom571]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Maurice290]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Marcus915]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ben593]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Stephen28]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Louis229]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Roy87]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@William282]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Oscar459]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Isaac553]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Don279]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ivan176]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Tony42]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Enrique481]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Tyler872]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jesse628]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Roland273]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@William296]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Edward321]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Casey159]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ronald784]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jonathan875]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Thomas625]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Bernard371]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Terrence128]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jeffery808]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Byron905]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jimmie837]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Dale717]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Adrian150]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Lester163]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jeffrey121]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Andre985]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Chris647]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Gabriel86]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jon22]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Roger442]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jacob975]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Clinton635]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Patrick506]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ernest67]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ted751]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Edwin173]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Casey912]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ronnie871]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Ron805]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Steven282]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Adam914]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Shane425]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Chester477]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Tim17]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Andre938]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Gordon54]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@George127]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Virgil892]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Johnnie254]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Rick810]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Jim668]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Wayne860]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Larry81]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Bob881]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Mario752]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Benjamin863]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Mike448]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Nicholas654]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Peter181]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Nicholas308]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Mario805]
+1/4/12 4:35 AM -- SpaceInstance [1]: loaded bot #-1 [@Arthur714]
+1/4/12 4:35 AM -- SpaceInstanceServer [0] destroyed instance of space 1
+1/4/12 4:35 AM -- SpaceInstanceServer [0] started new instance of space 20
+1/4/12 4:36 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 4:36 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 4:37 AM -- SpaceInstanceServer [0] destroyed instance of space 20
+1/4/12 4:37 AM -- ClientManager: removed client #5 [reason: disconnected by user]
+1/4/12 4:39 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 4:53 AM -- ClientManager: removed client #1 [reason: disconnected by user]
+1/4/12 4:59 AM -- ClientManager: accepted client #6 from 41.243.114.55 [dsl-243-114-55.telkomadsl.co.za]
+1/4/12 4:59 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 4:59 AM -- ClientManager: removed client #6 [reason: disconnected by user]
+1/4/12 4:59 AM -- ClientManager: accepted client #7 from 41.243.114.55 [dsl-243-114-55.telkomadsl.co.za]
+1/4/12 4:59 AM -- User #36 [Dean] logged in from client #7 [41.243.114.55]
+1/4/12 5:00 AM -- ClientManager: removed client #7 [reason: disconnected by user]
+1/4/12 5:00 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 5:09 AM -- ClientManager: accepted client #8 from 41.243.114.55 [dsl-243-114-55.telkomadsl.co.za]
+1/4/12 5:09 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 5:09 AM -- User #36 [Dean] logged in from client #8 [41.243.114.55]
+1/4/12 5:11 AM -- ClientManager: accepted client #9 from 2.102.29.194 [host-2-102-29-194.as13285.net]
+1/4/12 5:11 AM -- User #37 [Liam] logged in from client #9 [2.102.29.194]
+1/4/12 5:11 AM -- ClientManager: removed client #9 [reason: disconnected by user]
+1/4/12 5:12 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 5:12 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 5:15 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 5:15 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 5:18 AM -- ClientManager: removed client #8 [reason: disconnected by user]
+1/4/12 5:18 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 5:33 AM -- ClientManager: accepted client #10 from 41.243.114.55 [dsl-243-114-55.telkomadsl.co.za]
+1/4/12 5:33 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 5:33 AM -- SQLDatabaseConnectionManager performed connection pool cleanup, 1 connections closed.
+1/4/12 5:33 AM -- SQLDatabaseConnectionManager created new Connection, active connection amount: 1
+1/4/12 5:33 AM -- User #36 [Dean] logged in from client #10 [41.243.114.55]
+1/4/12 5:34 AM -- ClientManager: removed client #10 [reason: disconnected by user]
+1/4/12 5:34 AM -- ClientManager: accepted client #11 from 41.243.114.55 [dsl-243-114-55.telkomadsl.co.za]

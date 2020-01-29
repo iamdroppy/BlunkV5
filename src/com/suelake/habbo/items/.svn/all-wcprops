@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/items
+END
+ItemBehaviour.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/items/ItemBehaviour.java
+END
+ItemTradeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/blunk_src/!svn/ver/143/src/com/suelake/habbo/items/ItemTradeHandler.java
+END
+ItemDefinitionLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/items/ItemDefinitionLoader.java
+END
+ItemDefinitionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/items/ItemDefinitionManager.java
+END
+ItemLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/items/ItemLoader.java
+END
+ItemDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/items/ItemDefinition.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/items/Item.java
+END
+ItemAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/items/ItemAdministration.java
+END
+ItemInventoryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blunk_src/!svn/ver/145/src/com/suelake/habbo/items/ItemInventoryHandler.java
+END

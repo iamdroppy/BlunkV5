@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/access/sql
+END
+SQLUserRegistrationFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blunk_src/!svn/ver/150/src/com/suelake/habbo/access/sql/SQLUserRegistrationFinder.java
+END
+SQLUserRightLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/114/src/com/suelake/habbo/access/sql/SQLUserRightLoader.java
+END
+SQLUserAccessEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/blunk_src/!svn/ver/165/src/com/suelake/habbo/access/sql/SQLUserAccessEntry.java
+END

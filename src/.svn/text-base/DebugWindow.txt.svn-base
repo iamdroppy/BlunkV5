@@ -1,0 +1,153 @@
+put gCore.get(#connection_manager).pListenerList
+put gCore.get(#connection_manager).pCommandsList
+put gCore.get(#connection_manager).connectionExists
+put gCore.get(#connection_manager).getConnection
+trace(gMain.handlers())
+trace(ginto.handlers())
+showglobals()
+obj.showProps()
+showLocals()
+_movie.traceScript
+the traceLoad = 2
+the trace = true
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+"HELLO": [[#navigator_parser, #parse_hello]], 
+"SECRET_KEY": [[#navigator_parser, #parse_secret_key], [#registration_handler, #handle_ok]], 
+"OK": [[#navigator_parser, #parse_ok], [#habbo_club_handler, #handle_ok]], 
+"U_RTS": [[#navigator_parser, #parse_user_rights]], 
+"DISCONNECT": [[#navigator_parser, #parse_disconnect], [#room_parser, #parse_disconnect]], 
+"SYSTEMBROADCAST": [[#navigator_parser, #parse_systembroadcast]], 
+"UNITS": [[#navigator_parser, #parse_units]], 
+"UNITUPDATES": [[#navigator_parser, #parse_unitupdates]], 
+"UNITMEMBERS": [[#navigator_parser, #parse_unitmembers]], 
+"FLATINFO": [[#navigator_parser, #parse_flatinfo]], 
+"FLAT_RESULTS": [[#navigator_parser, #parse_flat_results]], 
+"BUSY_FLAT_RESULTS": [[#navigator_parser, #parse_flat_results]], 
+"FAVORITE_FLAT_RESULTS": [[#navigator_parser, #parse_flat_results]], 
+"NOFLATSFORUSER": [[#navigator_parser, #parse_noflatsforuser]], 
+"NOFLATS": [[#navigator_parser, #parse_noflats]], 
+"NOSUCHFLAT": [[#navigator_parser, #parse_nosuchflat]], 
+"NOPRVUSERS": [[#navigator_parser, #parse_noprvusers]], 
+"PRVUNITS": [[#navigator_parser, #parse_prvunits]], 
+"USEROBJECT": [[#navigator_parser, #parse_userobject]], 
+"WALLETBALANCE": [[#navigator_parser, #parse_walletbalance]], 
+"MEMBERINFO": [[#navigator_parser, #parse_MEMBERINFO]], "
+"ADVERTISEMENT": [[#navigator_parser, #parse_advertisement]], 
+"ERROR": [[#navigator_parser, #parse_error], [#room_parser, #parse_error]], 
+"MD5ID": [[#navigator_parser, #parse_checksum]], 
+"EPS_NOTIFY": [[#navigator_parser, #parse_eps_notify]], 
+"USERBANNED": [[#navigator_parser, #parse_userbanned]], 
+"FLATPASSWORD_OK": [[#navigator_parser, #parse_flatpassword_ok]], 
+"REGOK": [[#registration_handler, #handle_regok]], 
+"NAME_APPROVED": [[#registration_handler, #handle_nameapproved]], 
+"NAME_UNACCEPTABLE": [[#registration_handler, #handle_nameunacceptable]], 
+"AVAILABLESETS": [[#registration_handler, #handle_availablesets]], 
+"MESSENGERREADY": [[#messenger_handler, #handle_messengerready]], 
+"BUDDYLIST": [[#messenger_handler, #handle_buddylist]], 
+"BLU": [[#messenger_handler, #handle_buddylist]], 
+"A_BD": [[#messenger_handler, #handle_buddylist]], 
+"R_BD": [[#messenger_handler, #handle_remove_buddy]], 
+"MESSENGER_MSG": [[#messenger_handler, #handle_messenger_msg]], 
+"MYPERSISTENTMSG": [[#messenger_handler, #handle_mypersistentmsg]], 
+"MESSENGERSMSACCOUNT": [[#messenger_handler, #handle_messengersmsaccount]], 
+"BUDDYADDREQUESTS": [[#messenger_handler, #handle_buddyaddrequests]], 
+"NOSUCHUSER": [[#messenger_handler, #handle_nosuchuser]], 
+"USERPROFILE": [[#messenger_handler, #handle_userprofile]], 
+"CAMPAIGN_MSG": [[#messenger_handler, #handle_campaign_msg]], 
+"MESSENGER_SYSTEMMSG": [[#messenger_handler, #handle_system_msg]], 
+"SYSTEMMSG": [[#messenger_handler, #handle_system_msg]], 
+"FLATCREATED": [[#roomkiosk_handler, #handleFlatCreated]], 
+"OPC_OK": [[#room_parser, #parse_opc_ok]], 
+"CLC": [[#room_parser, #parse_clc]], 
+"YOUAREMOD": [[#room_parser, #parse_youaremod]], 
+"FLAT_LETIN": [[#room_parser, #parse_flat_letin]], 
+"ROOM_READY": [[#room_parser, #parse_room_ready]], 
+"LOGOUT": [[#room_parser, #parse_logout]], "
+"DOORBELL_RINGING": [[#room_parser, #parse_doorbell_ringing]], 
+"STATUS": [[#room_parser, #parse_status]], 
+"CHAT": [[#room_parser, #parse_chat]], 
+"SHOUT": [[#room_parser, #parse_chat]], 
+"WHISPER": [[#room_parser, #parse_chat]], 
+"USERS": [[#room_parser, #parse_users]], 
+"SHOWPROGRAM": [[#room_parser, #parse_showprogram]], 
+"HEIGHTMAP": [[#room_parser, #parse_heightmap]], 
+"OBJECTS": [[#room_parser, #parse_objects]], 
+"ACTIVE_OBJECTS": [[#room_parser, #parse_active_objects]], 
+"ACTIVEOBJECT_ADD": [[#room_parser, #parse_active_objects]], 
+"ACTIVEOBJECT_REMOVE": [[#room_parser, #parse_activeobject_remove]], 
+"ITEMS": [[#room_parser, #parse_items]], 
+"ADDITEM": [[#room_parser, #parse_items]], 
+"REMOVEITEM": [[#room_parser, #parse_removeitem]], 
+"UPDATEITEM": [[#room_parser, #parse_updateitem]], 
+"ACTIVEOBJECT_UPDATE": [[#room_parser, #parse_activeobject_update]], 
+"STUFFDATAUPDATE": [[#room_parser, #parse_stuffdataupdate]], 
+"PRESENTOPEN": [[#room_parser, #parse_presentopen]], 
+"PRESENT_NOTTIMEYET": [[#room_parser, #parse_present_nottimeyet]], 
+"FLATPROPERTY": [[#room_parser, #parse_flatproperty]], 
+"YOUARECONTROLLER": [[#room_parser, #parse_room_rights]], 
+"YOUNOTCONTROLLER": [[#room_parser, #parse_room_rights]], 
+"YOUAREOWNER": [[#room_parser, #parse_room_rights]], 
+"STRIPINFO": [[#room_parser, #parse_stripinfo]], 
+"ADDSTRIPITEM": [[#room_parser, #parse_stripinfo]], 
+"STRIPUPDATED": [[#room_parser, #parse_stripupdated]], 
+"REMOVESTRIPITEM": [[#room_parser, #parse_removestripitem]], 
+"TRADE_ITEMS": [[#room_parser, #parse_trade_items]], 
+"TRADE_ACCEPT": [[#room_parser, 
+"TRADE_CLOSE": [[#room_parser, #parse_trade_close]], 
+"TRADE_COMPLETED": [[#room_parser, #parse_trade_completed]], 
+"TRADE_ALREADYOPEN": [[#room_parser, #parse_trade_completed]], 
+"TRADE_YOUARENOTALLOWED": [[#room_parser, #parse_youarenotallowed]], 
+"TRADE_OTHERNOTALLOWED": [[#room_parser, #parse_othernotallowed]], 
+"IDATA": [[#room_parser, #parse_idata]], 
+"DOOR_IN": [[#room_parser, #parse_door_in]], 
+"DOOR_OUT": [[#room_parser, #parse_door_out]], 
+"DICE_VALUE": [[#room_parser, #parse_dice_value]], 
+"DOORFLAT": [[#room_parser, #parse_doorflat]], 
+"DOORDELETED": [[#room_parser, #parse_doordeleted]], 
+"DOORNOTINSTALLED": [[#room_parser, #parse_doordeleted]], 
+"SCR_SINF": [[#habbo_club_handler, #handle_scr_sinfo]], 
+"SCR_NOSUB": [[#habbo_club_handler, #handle_scr_nosub]], "
+"SCR_SOK": [[#habbo_club_handler, #handle_scr_sok]], 
+"FILM": [[#photo_handler, #handle_film]], 
+"CRYFORHELP": [[#hobba_handler, #handle_cryforhelp]], 
+"PICKED_CRY": [[#hobba_handler, #handle_picked_cry]]], #ilk: #struct]]
+"PURCHASE_OK": [[#catalogue_handler, #handle_purchase_ok]],
+"PURCHASE_ERROR": [[#catalogue_handler, #handle_purchase_error]],
+"PURCHASE_NOBALANCE": [[#catalogue_handler, #handle_purchase_nobalance]], 
+"ORDERINFO": [[#catalogue_handler, #handle_orderinfo]], 
+"ORDERINFO_ERROR": [[#catalogue_handler, #handle_orderinfo_error]], 
+"C_I": [[#catalogue_handler, #handle_catalogindex]], 
+"C_P": [[#catalogue_handler, #handle_catalogpage]]], #ilk: #struct]]
+"OPEN_UIMAKOPPI": [[#pellehyppy_parser, #parse_openuimakoppi]],
+"CLOSE_UIMAKOPPI": [[#pellehyppy_parser, #parse_closeuimakoppi]],
+"PH_TICKETS": [[#pellehyppy_parser, #parse_phtickets]],
+"PH_NOTICKETS": [[#pellehyppy_parser, #parse_notickets]],
+"JUMPDATA": [[#pellehyppy_parser, #parse_jumpdata]],
+"JUMPLIFTDOOR_OPEN": [[#pellehyppy_parser, #parse_jumpliftdoor_open]],
+"JUMPLIFTDOOR_CLOSE": [[#pellehyppy_parser, #parse_jumpliftdoor_close]],
+"JUMPINGPLACE_OK": [[#pellehyppy_parser, #parse_jumpingplace_ok]],
+"PH_TICKETS_BUY": [[#pellehyppy_parser, #parse_phtickets_buy]]],
+"MD_EXIT": [[#mountain_parser, #parse_md_exit]],
+"PH_TICKETS": [[#mountain_parser, #parse_tickets]],
+"PH_TICKETS_BUY": [[#mountain_parser, #parse_tickets_buy], [#mountain_parser,#parse_tickets_buy]], 
+"PT_NOTCKS": [[#mountain_parser, #parse_no_tickets]],
+"PT_PR": [[#paalu_handler, #handle_pt_prepare]],
+"PT_ST": [[#paalu_handler, #handle_pt_start]],
+"PT_SI": [[#paalu_handler, #handle_pt_status]],
+"PT_WIN": [[#paalu_handler, #handle_pt_win]],
+"PT_BOTHLOSE": [[#paalu_handler, #handle_pt_bothlose]],
+"PT_TIMEOUT": [[#paalu_handler, #handle_pt_timeout]],
+"PT_EN": [[#paalu_handler, #handle_pt_end]]]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+NonHC > 100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740
+HC >  100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740,800,801,802,803,804,805
+
+ZOMG:
+column_polyfon = 'Mode column' object
+
+V7:
+
+-- [#info: [#value: [166: [[#statsBroker, #updateStats]], -1: [[#login_handler, #handleDisconnect], [#room_handler, #handle_disconnect]], 0: [[#login_handler, #handleHello]], 1: [[#login_handler, #handleSecretKey], [#registration_handler, #handle_ok]], 2: [[#login_handler, #handleRights]], 3: [[#login_handler, #handleLoginOK], [#messenger_handler, #handle_ok], [#registration_handler, #handle_login_ok], [#habbo_club_handler, #handle_ok]], 5: [[#login_handler, #handleUserObj]], 11: [[#login_handler, #handleAdv]], 33: [[#login_handler, #handleErr], [#room_handler, #handle_error], [#navigator_handler, #handle_error]], 35: [[#login_handler, #handleUserBanned]], 51: [[#login_handler, #handleRegistrationOK], [#registration_handler, #handle_regok]], 52: [[#login_handler, #handleEPSnotify]], 139: [[#login_handler, #handleSystemBroadcast]], 141: [[#login_handler, #handleCheckSum]], 161: [[#login_handler, #handleModAlert]], 229: [[#login_handler, #handleAvailableBadges]], 12: [[#messenger_handler, #handle_buddylist]], 13: [[#messenger_handler, #handle_mypersistentmsg]], 15: [[#messenger_handler, #handle_messengerready]], 17: [[#messenger_handler, #handle_buddylist]], 128: [[#messenger_handler, #handle_memberinfo], [#registration_handler, #handle_memberinfo]], 132: [[#messenger_handler, #handle_buddyaddrequests]], 133: [[#messenger_handler, #handle_campaign_msg]], 134: [[#messenger_handler, #handle_messenger_msg]], 137: [[#messenger_handler, #handle_buddylist]], 138: [[#messenger_handler, #handle_remove_buddy]], 147: [[#messenger_handler, #handle_nosuchuser], [#registration_handler, #handle_nosuchuser]], 8: [[#registration_handler, #handle_availablesets]], 36: [[#registration_handler, #handle_nameapproved]], 37: [[#registration_handler, #handle_nameunacceptable]], 164: [[#registration_handler, #handle_acr]], 211: [[#registration_handler, #handle_updateok]], 167: [[#registration_handler, #handle_reregistrationrequired]], 168: [[#registration_handler, #handle_nametoolong]], 214: [[#registration_handler, #handle_coppa_checktime]], 215: [[#registration_handler, #handle_coppa_getrealtime]], 217: [[#registration_handler, #handle_parent_email_requred]], 218: [[#registration_handler, #handle_parent_email_validated]], 169: [[#registration_handler, #handle_update_account]], 59: [[#roomkiosk_handler, #handleFlatCreated]], 18: [[#room_handler, #handle_clc]], 19: [[#room_handler, #handle_opc_ok]], 24: [[#room_handler, #handle_chat]], 25: [[#room_handler, #handle_chat]], 26: [[#room_handler, #handle_chat]], 28: [[#room_handler, #handle_users]], 29: [[#room_handler, #handle_logout]], 30: [[#room_handler, #handle_OBJECTS]], 31: [[#room_handler, #handle_heightmap]], 32: [[#room_handler, #handle_active_objects]], 34: [[#room_handler, #handle_status]], 41: [[#room_handler, #handle_flat_letin]], 45: [[#room_handler, #handle_items]], 42: [[#room_handler, #handle_room_rights]], 43: [[#room_handler, #handle_room_rights]], 46: [[#room_handler, #handle_flatproperty]], 47: [[#room_handler, #handle_room_rights]], 48: [[#room_handler, #handle_idata]], 62: [[#room_handler, #handle_doorflat]], 63: [[#room_handler, #handle_doordeleted]], 64: [[#room_handler, #handle_doordeleted]], 69: [[#room_handler, #handle_room_ready]], 70: [[#room_handler, #handle_youaremod]], 71: [[#room_handler, #handle_showprogram]], 83: [[#room_handler, #handle_items]], 84: [[#room_handler, #handle_removeitem]], 85: [[#room_handler, #handle_updateitem]], 88: [[#room_handler, #handle_stuffdataupdate]], 89: [[#room_handler, #handle_door_out]], 90: [[#room_handler, #handle_dice_value]], 91: [[#room_handler, #handle_doorbell_ringing]], 92: [[#room_handler, #handle_door_in]], 93: [[#room_handler, #handle_active_objects]], 94: [[#room_handler, #handle_activeobject_remove]], 95: [[#room_handler, #handle_activeobject_update]], 98: [[#room_handler, #handle_stripinfo]], 99: [[#room_handler, #handle_removestripitem]], 101: [[#room_handler, #handle_stripupdated]], 102: [[#room_handler, #handle_youarenotallowed]], 103: [[#room_handler, #handle_othernotallowed]], 105: [[#room_handler, #handle_trade_completed]], 108: [[#room_handler, #handle_trade_items]], 109: [[#room_handler, #handle_trade_accept]], 110: [[#room_handler, #handle_trade_close]], 112: [[#room_handler, #handle_trade_completed]], 129: [[#room_handler, #handle_presentopen]], 140: [[#room_handler, #handle_stripinfo]], 208: [[#room_handler, #handle_roomad]], 210: [[#room_handler, #handle_petstat]], 219: [[#room_handler, #handle_heightmapupdate]], 228: [[#room_handler, #handle_userbadge]], 230: [[#room_handler, #handle_slideobjectbundle]], 7: [[#habbo_club_handler, #handle_scr_sinfo]], 23: [[#habbo_club_handler, #handle_scr_sok]], 22: [[#habbo_club_handler, #handle_scr_nosub]], 21: [[#habbo_club_handler, #handle_scr_asu]], 4: [[#photo_handler, #handle_film]], 16: [[#navigator_handler, #handle_flat_results]], 54: [[#navigator_handler, #handle_flatinfo]], 55: [[#navigator_handler, #handle_flat_results]], 57: [[#navigator_handler, #handle_noflatsforuser]], 58: [[#navigator_handler, #handle_noflats]], 61: [[#navigator_handler, #handle_flat_results]], 130: [[#navigator_handler, #handle_flatpassword_ok]], 220: [[#navigator_handler, #handle_navnodeinfo]], 221: [[#navigator_handler, #handle_userflatcats]], 222: [[#navigator_handler, #handle_flatcat]], 223: [[#navigator_handler, #handle_spacenodeusers]], 224: [[#navigator_handler, #handle_cantconnect]], 225: [[#navigator_handler, #handle_success]], 226: [[#navigator_handler, #handle_failure]], 227: [[#navigator_handler, #handle_parentchain]], 6: [[#purse_handler, #handle_purse]], 209: [[#purse_handler, #handle_purse]], 212: [[#purse_handler, #handle_purse]], 213: [[#purse_handler, #handle_purse]]], #ilk: #struct]]
